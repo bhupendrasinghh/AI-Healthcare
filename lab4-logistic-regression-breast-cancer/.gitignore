@@ -1,0 +1,24 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE & OS
+.DS_Store
+.vscode/
+.idea/
+
+# Lab outputs
+lab4_outputs/
